@@ -20,7 +20,7 @@ This project implements a fine-tuned GPT-2 model for generating Vietnamese poems
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Duy1230/Poem-Generation-Project.git
 cd vietnamese-poem-generation
 ```
 
@@ -33,6 +33,7 @@ pip install -r requirements.txt
 3. Run streamlit interface:
 
 ```bash
+# Note that running this command require a model, you can train one using provided notebook
 streamlit run interface.py
 ```
 

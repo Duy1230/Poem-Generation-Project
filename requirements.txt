@@ -1,0 +1,8 @@
+streamlit
+torch
+transformers
+pandas
+selenium
+tqdm
+huggingface_hub
+datasets
